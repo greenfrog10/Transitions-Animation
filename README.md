@@ -6,5 +6,5 @@
 
 Transition de formes et de couleurs différentes sur l'écran en zoomant
 # Comment l'éxécuter 
-Il suffit juste d'extraire le transitions_animation.zip et de lancer le animation_test.
+Il suffit juste d'extraire le transitions_animation_main.zip puis d'extraire transitions_animation.zip et de lancer le animation_test.
 
